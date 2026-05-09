@@ -1,0 +1,2 @@
+This is a new file for DevOps Lab 2.
+Created for git branch and commit practice.
